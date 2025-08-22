@@ -1,0 +1,170 @@
+# Query: about
+# ContextLines: 1
+
+49 results - 10 files
+
+D:\xampp\htdocs\orfina\about.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item active"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  175  		<div class="container text-center">
+  176: 			<h1>About Us<span class="m_1">Lorem Ipsum dolroin gravida nibh vel velit.</span></h1>
+  177  		</div>
+
+  183                  <div class="col-md-8 offset-md-2">
+  184:                     <h3>About</h3>
+  185                      <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p>
+
+  203                      <div class="post-media wow fadeIn">
+  204:                         <img src="images/img_55.jpg" alt="" class="img-fluid img-rounded">
+  205                      </div><!-- end media -->
+
+  210                      <div class="post-media wow fadeIn">
+  211:                         <img src="images/about_03.jpg" alt="" class="img-fluid img-rounded">
+  212                      </div><!-- end media -->
+
+  385                          <div class="widget-title">
+  386:                             <h3>About US</h3>
+  387                          </div>
+
+  409                              <li><a href="#">Pricing</a></li>
+  410: 							<li><a href="#">About</a></li>
+  411  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\blog-single.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  220  						<div class="author-desc">
+  221: 							<img src="images/author.jpg" alt="about author">
+  222  							<ul class="author-social">
+
+  384                          <div class="widget-title">
+  385:                             <h3>About US</h3>
+  386                          </div>
+
+  408                              <li><a href="#">Pricing</a></li>
+  409: 							<li><a href="#">About</a></li>
+  410  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\blog.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  360                          <div class="widget-title">
+  361:                             <h3>About US</h3>
+  362                          </div>
+
+  384                              <li><a href="#">Pricing</a></li>
+  385: 							<li><a href="#">About</a></li>
+  386  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\contact.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  183                  <h3>Need Help? Sure we are Online!</h3>
+  184:                 <p class="lead">Let us give you more details about the special offer website you want us. Please fill out the form below. <br>We have million of website owners who happy to work with us!</p>
+  185              </div><!-- end title -->
+
+  254                          <div class="widget-title">
+  255:                             <h3>About US</h3>
+  256                          </div>
+
+  278                              <li><a href="#">Pricing</a></li>
+  279: 							<li><a href="#">About</a></li>
+  280  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\course-grid-2.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item active dropdown">
+
+  417                          <div class="widget-title">
+  418:                             <h3>About US</h3>
+  419                          </div>
+
+  441                              <li><a href="#">Pricing</a></li>
+  442: 							<li><a href="#">About</a></li>
+  443  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\course-grid-3.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item active dropdown">
+
+  414                          <div class="widget-title">
+  415:                             <h3>About US</h3>
+  416                          </div>
+
+  438                              <li><a href="#">Pricing</a></li>
+  439: 							<li><a href="#">About</a></li>
+  440  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\course-grid-4.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item active dropdown">
+
+  476                          <div class="widget-title">
+  477:                             <h3>About US</h3>
+  478                          </div>
+
+  500                              <li><a href="#">Pricing</a></li>
+  501: 							<li><a href="#">About</a></li>
+  502  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\index.php:
+  144  						<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  258                  <div class="col-md-8 offset-md-2">
+  259:                     <h3>About</h3>
+  260                      <p class="lead">Lorem Ipsum dolroin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem!</p>
+
+  278                      <div class="post-media wow fadeIn">
+  279:                         <img src="images/about_02.jpg" alt="" class="img-fluid img-rounded">
+  280                      </div><!-- end media -->
+
+  285                      <div class="post-media wow fadeIn">
+  286:                         <img src="images/about_03.jpg" alt="" class="img-fluid img-rounded">
+  287                      </div><!-- end media -->
+
+  679                          <div class="widget-title">
+  680:                             <h3>About US</h3>
+  681                          </div>
+
+  703                              <li><a href="#">Pricing</a></li>
+  704: 							<li><a href="#">About</a></li>
+  705  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\pricing.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  385                          <div class="widget-title">
+  386:                             <h3>About US</h3>
+  387                          </div>
+
+  409                              <li><a href="#">Pricing</a></li>
+  410: 							<li><a href="#">About</a></li>
+  411  							<li><a href="#">Contact</a></li>
+
+D:\xampp\htdocs\orfina\teachers.php:
+  144  						<li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+  145: 						<li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
+  146  						<li class="nav-item dropdown">
+
+  467                          <div class="widget-title">
+  468:                             <h3>About US</h3>
+  469                          </div>
+
+  491                              <li><a href="#">Pricing</a></li>
+  492: 							<li><a href="#">About</a></li>
+  493  							<li><a href="#">Contact</a></li>
